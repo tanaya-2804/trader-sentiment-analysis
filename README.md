@@ -1,6 +1,7 @@
 # Trader Performance vs Market Sentiment Analysis
 
 Assignment for Primetrade.ai Data Science Intern Role
+colab link-https://colab.research.google.com/drive/182KthDNiZfCHrIuW97E6s4jlEUSMzE6V?usp=sharing
 
 
 
